@@ -1,5 +1,6 @@
 import React from "react";
 import ClickCounter from "./ClickCounter";
+import Jotto from "./Jotto-Redux/Jotto";
 import "./App.css";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <h1>Hello, World!</h1>
       <ClickCounter />
+      <Jotto />
     </div>
   );
 }
