@@ -13,6 +13,14 @@ const setup = (porps = {}) => {
   return shallow(<GuessedWords {...setupProps} />);
 };
 
-TextDecoderStream("doesn't throw warning with expected props", () => {
+test("doesn't throw warning with expected props", () => {
   checkProps(GuessedWords, defaultProps);
 });
+
+describe("if there are no guessed words", ()=> {
+
+})
+
+describe("if there are guessed words", ()=> {
+
+})
