@@ -1,7 +1,6 @@
 import React from "react";
 import { shallow } from "enzyme";
 import {
-  findByTesrAttr,
   findByTestAttr,
   storeFactory,
 } from "../../test/testUtils";
