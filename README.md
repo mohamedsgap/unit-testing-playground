@@ -1,6 +1,6 @@
 # Unit Testing Playground!
 
-Built this repository for demonstating the unit testing for `React apps` with `Jest` and `Enzyme`.
+Built this repository for demonstrating the unit testing for `React apps` with `Jest` and `Enzyme`.
 
 In this repository I build an app called Jotto, let us to guess the words and give us a feedback messaging if our guess id true, flase and provide us with the matching characters in the guessing word.
 
