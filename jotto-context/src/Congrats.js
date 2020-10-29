@@ -1,7 +1,7 @@
 import React from "react";
 import successContext from "./contexts/successContext";
 import languageContext from "./contexts/languageContext";
-import stringsModule from "./helpers/strings";
+import stringsModule from "./helper/strings";
 
 /**
  * Functional react component for congratulatory message.
