@@ -3,7 +3,7 @@ import hookActions from "./actions/hookActions";
 import languageContext from "./contexts/languageContext";
 import successContext from "./contexts/successContext";
 import guessedWordsContext from "./contexts/guessedWordsContext";
-
+import "./App.css";
 import LanguagePicker from "./LanguagePicker";
 import Input from "./Input";
 import Congrats from "./Congrats";
